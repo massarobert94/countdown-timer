@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^5.1.0",
     "gh-pages": "^3.2.3"
   }
 }
